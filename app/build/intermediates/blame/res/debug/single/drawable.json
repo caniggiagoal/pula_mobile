@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_progressbar_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\shape_progressbar_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_progressbar_mini.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\shape_progressbar_mini.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seletor_list.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\seletor_list.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_essay_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_essay_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button1.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\custom_button1.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_my_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_my_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\room_rating_bar.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\room_rating_bar.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_comment_selector.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\item_comment_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\list_selector.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_selector.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\btn_nav_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_check_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_check_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_share_seletor.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\item_share_seletor.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_add_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_add_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_button.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector2.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\list_selector2.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_mall_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_mall_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_jump_selector.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\btn_jump_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_buydetail.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\shape_buydetail.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_huodong_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_huodong_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_share_wxcircle.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\selector_share_wxcircle.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_image_bg.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\main_tab_image_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_share_wxchat.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable\\selector_share_wxchat.xml"
+    }
+]

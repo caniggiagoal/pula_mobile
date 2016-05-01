@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\reverse_anim.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\rotate_repeat.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\rotate_repeat.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\welcome.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\welcome.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_right_out.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_left_out.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\lodding.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\lodding.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_right_in.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\btn_add.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\btn_add.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_left_in.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\anim\\rotating.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\rotating.xml"
+    }
+]

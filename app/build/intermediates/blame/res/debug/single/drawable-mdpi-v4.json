@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_3.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_3.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\defaultcovers.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\defaultcovers.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pull_icon_big.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pullup_icon_big.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\pullup_icon_big.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_6.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_6.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_1.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_1.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star1.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\star1.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_2.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_2.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star4.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\star4.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_5.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_5.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\load_failed.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\load_failed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star2.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\star2.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\refresh_succeed.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star5.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\star5.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\refreshing.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\refreshing.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\load_succeed.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\load_succeed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\star3.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\star3.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_4.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_4.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_7.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_7.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_0.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\loading_0.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\refresh_failed.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\refresh_failed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\white_cover.png",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\drawable-mdpi\\white_cover.png"
+    }
+]

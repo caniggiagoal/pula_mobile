@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="branchNoserver">
+     <item>003</item>  
+     <item>004</item>  
+     <item>002</item>  
+    </string-array>
+    <string-array name="branchnameserver">
+     <item>香榭丽</item>  
+     <item>文峰店</item>  
+     <item>金桥总校</item>  
+    </string-array>
+    <string-array name="spingarr">
+     <item>源深香榭丽花园校区</item>  
+     <item>金桥文峰广场校区</item>  
+     <item>金桥禹州国际校区</item>  
+    </string-array>
+    <color name="BookingDay">#ff6bd697</color>
+    <color name="Color_black">#000000</color>
+    <color name="Noteback">#FFCC99</color>
+    <color name="Text">#603b07</color>
+    <color name="ToDayText">#ffc2a53d</color>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="br0">#ffffc5dd</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="calendar_background">#cb9e41</color>
+    <color name="calendar_zhe_day">#faedda</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="event_center">#ff6bd697</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forecast_point">#fff66898</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="frame">#ffcc3266</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#808080</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="light_blue">#663399CC</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="navy">#000080</color>
+    <color name="noMonth">#c0c0c0</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="res_cor1">#ffffffff</color>
+    <color name="res_cor10">#f9ff50</color>
+    <color name="res_cor11">#ffba0000</color>
+    <color name="res_cor12">#ff151618</color>
+    <color name="res_cor2">#ff000000</color>
+    <color name="res_cor20">#ff2b2b2b</color>
+    <color name="res_cor3">#ffff0000</color>
+    <color name="res_cor4">#dedede</color>
+    <color name="res_cor5">#ff516491</color>
+    <color name="res_cor6">#ff444444</color>
+    <color name="res_cor7">#ff354149</color>
+    <color name="res_cor8">#ff808080</color>
+    <color name="res_cor9">#ff2c2d2c</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="selection">#b1dce2ff</color>
+    <color name="share_bg_color">#ffe6e6e6</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="tempColor">#e3e3e3</color>
+    <color name="text_6">#FFf3feff</color>
+    <color name="text_7">#FFfff1f2</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="title_text_6">#FF529bd0</color>
+    <color name="title_text_7">#FFbc4445</color>
+    <color name="tomato">#FF6347</color>
+    <color name="transparent">#00000000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
+    <declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="spacing"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr name="activeType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr format="dimension" name="circleSeparation"/><attr format="dimension" name="activeRadius"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/></declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams"><attr format="boolean" name="layout_breakLine"/><attr format="dimension" name="layout_horizontalSpacing"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="4"/><enum name="right" value="5"/><enum name="both" value="6"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehindLeft"/><attr format="reference" name="viewBehindRight"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="behindFadeEnabled"/><attr format="float" name="behindFadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="StaggeredGridView"><attr format="integer" name="column_count_portrait"/><attr format="integer" name="column_count_landscape"/><attr format="dimension" name="item_margin"/><attr format="dimension" name="grid_paddingLeft"/><attr format="dimension" name="grid_paddingRight"/><attr format="dimension" name="grid_paddingTop"/><attr format="dimension" name="grid_paddingBottom"/></declare-styleable>
+    <declare-styleable name="TitleFlowIndicator"><attr format="dimension" name="titlePadding"/><attr format="dimension" name="clipPadding"/><attr format="color" name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr format="dimension" name="selectedSize"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="footerLineHeight"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerTriangleHeight"/><attr format="string" name="customTypeface"/></declare-styleable>
+    <declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable>
+    <declare-styleable name="ViewPagerExtensions"><attr format="integer" name="fadeOutDelay"/><attr format="integer" name="fadeOutDuration"/><attr format="color" name="textColorSelected"/><attr format="color" name="lineColor"/><attr format="color" name="lineColorSelected"/><attr format="dimension" name="lineHeight"/><attr format="dimension" name="lineHeightSelected"/><attr format="color" name="dividerColor"/><attr format="dimension" name="dividerMarginTop"/><attr format="dimension" name="dividerMarginBottom"/><attr format="reference" name="dividerDrawable"/><attr format="dimension" name="outsideOffset"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="big_text_size">26sp</dimen>
+    <dimen name="half_padding">4dip</dimen>
+    <dimen name="large_text_size">20sp</dimen>
+    <dimen name="medium_text_size">18sp</dimen>
+    <dimen name="micro_small_text_size">10sp</dimen>
+    <dimen name="micro_text_size">12sp</dimen>
+    <dimen name="middle_text_size">16sp</dimen>
+    <dimen name="mm_up_arrow_margin">-16dp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="standard_padding">8dip</dimen>
+    <string name="Fri">五</string>
+    <string name="Mon">一</string>
+    <string name="Sat">六</string>
+    <string name="Sun">日</string>
+    <string name="Thu">四</string>
+    <string name="Tue">二</string>
+    <string name="Wed">三</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_desc">少儿艺术创造力研发中心</string>
+    <string name="app_name">普拉星球</string>
+    <string name="app_tip">提示</string>
+    <string name="app_upload">应用分享（携带文件）</string>
+    <string name="app_upload_extinfo">应用分享（携带脚本）</string>
+    <string name="available_period">有效期:</string>
+    <string name="basic_info_chn">基本信息</string>
+    <string name="basic_info_eng">Basic information</string>
+    <string name="booking">预约</string>
+    <string name="booking_plan">预约时间:</string>
+    <string name="branch_name">分部:</string>
+    <string name="buy_failed">购买失败</string>
+    <string name="buy_success">购买成功</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="copy_right_text1">普拉星球     版权所有</string>
+    <string name="copy_right_text2">CopyRight©2015 普拉星球</string>
+    <string name="copy_right_text3">All Rights Reserved</string>
+    <string name="course_duration_time">时长(分钟):</string>
+    <string name="course_name">课程:</string>
+    <string name="course_open_time">开课时间:</string>
+    <string name="create_time">创建时间:</string>
+    <string name="customer_douban">搜索用户</string>
+    <string name="customer_facebook">获取通知列表</string>
+    <string name="customer_kaixin">获取可能认识的人</string>
+    <string name="customer_nemb">获取推荐话题</string>
+    <string name="customer_qzone">发表日志到QQ空间</string>
+    <string name="customer_renren">上传照片到用户的相册</string>
+    <string name="customer_sina">获取微博主页列表</string>
+    <string name="customer_sohu">获取好友列表</string>
+    <string name="customer_suishenkan">获取搜狐随身看书签列表</string>
+    <string name="customer_tencent">获取我的粉丝列表</string>
+    <string name="customer_tumblr">获取Tumblr用户Post列表</string>
+    <string name="customer_twitter">获取主页列表</string>
+    <string name="customer_youdao">获取笔记本列表</string>
+    <string name="demo_get_access_token">获取AccessToken</string>
+    <string name="demo_get_my_info">获取授权用户资料</string>
+    <string name="demo_get_other_info">获取其他用户资料</string>
+    <string name="demo_share_all">分享全部（无界面，直接分享）</string>
+    <string name="demo_share_all_gui">分享全部（有分享界面）</string>
+    <string name="douban">豆瓣</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="email">邮件</string>
+    <string name="emoji_upload">表情分享（本地图片）</string>
+    <string name="emoji_upload_bm">表情分享（Bitmap对象）</string>
+    <string name="emoji_upload_url">表情分享（网络图片）</string>
+    <string name="evenote_title">ShareSDK是一个神奇的SDK</string>
+    <string name="evernote">印象笔记</string>
+    <string name="facebook">Facebook</string>
+    <string name="file_upload">文件分享</string>
+    <string name="finish">完成</string>
+    <string name="flickr">Flickr</string>
+    <string name="foursquare">FourSquare</string>
+    <string name="get_other_info_format">获取%s其他用户资料</string>
+    <string name="get_sina_friends_list">获取新浪微博关注列表</string>
+    <string name="get_tencent_friends_list">获取腾讯微博关注列表</string>
+    <string name="get_token_format">获取%s的AccessToken</string>
+    <string name="get_user_info_format">获取%s授权用户资料</string>
+    <string name="getting_prepayid">正在获取预支付信息...</string>
+    <string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="googleplus">Google+</string>
+    <string name="head">这里是HeadView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image_upload">图片分享（本地图片）</string>
+    <string name="image_upload_bitmap">图片分享（Bitmap对象）</string>
+    <string name="image_upload_url">图片分享（网络图片）</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="kaixin">开心网</string>
+    <string name="kakaostory">KakaoStory</string>
+    <string name="kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="kakaotalk">KakaoTalk</string>
+    <string name="kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="laiwang">来往</string>
+    <string name="line">Line</string>
+    <string name="line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="linkedin">领英</string>
+    <string name="list_friends">%s的朋友</string>
+    <string name="load_fail">已无更多数据</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="loading">正在加载...</string>
+    <string name="mingdao">明道</string>
+    <string name="mingdao_share_content">网页分享</string>
+    <string name="more">更多</string>
+    <string name="msg_login_error">用户未登录 或 密码错误</string>
+    <string name="multi_share">图文分享</string>
+    <string name="music_upload">音乐分享</string>
+    <string name="my_booking_chn">我的预约</string>
+    <string name="my_booking_eng">My reservation</string>
+    <string name="my_course_chn">我的课程</string>
+    <string name="my_course_eng">My course</string>
+    <string name="my_notice_chn">我的活动</string>
+    <string name="my_notice_eng">My activities</string>
+    <string name="my_work_chn">我的作品</string>
+    <string name="my_work_eng">My work</string>
+    <string name="neteasemicroblog">网易微博</string>
+    <string name="nextMonth">下一个月</string>
+    <string name="not_yet_authorized">尚未授权</string>
+    <string name="nul"/>
+    <string formatted="false" name="pay_result_callback_msg">微信支付结果：%s</string>
+    <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
+    <string name="person_num">人数:</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="plz_choose_wechat">请选择微信客户端完成操作</string>
+    <string name="point_add_del">积分增减:</string>
+    <string name="point_comments">积分备注:</string>
+    <string name="point_type">积分类型:</string>
+    <string name="prevMonth">上一个月</string>
+    <string name="product_web">产品官网</string>
+    <string name="productwebaddress">www.zt-zoo.com</string>
+    <string name="progress_buy_out_status">购买使用: </string>
+    <string name="progress_gongfang_used">工坊使用: </string>
+    <string name="progress_huodong_used">活动使用: </string>
+    <string name="prompt">提示</string>
+    <string name="publish_date_value">2016-3-18</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="qq">QQ</string>
+    <string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="qq_share_from_qqlogin">QQ/QZone登录发微博</string>
+    <string name="qq_share_from_tlogin">腾讯微博登录发微博</string>
+    <string name="qq_share_way">请选择分享方式</string>
+    <string name="qzone">QQ空间</string>
+    <string name="qzone_add_blog_sample"><h1>QQ互联</h1><font color="red">轻松分享,</font><font color="green">快乐生活。</font><a href="http://connect.qq.com">详情请看。</a><img src="http://imgcache.qq.com/ptlogin/head/1_100.gif"/></string>
+    <string name="qzone_customer_share_style">自定义QQ空间分享风格</string>
+    <string name="receive_rewards">恭喜你得到%s个金币！</string>
+    <string name="refresh_fail">暂无更新</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="register_tip">我们向您承诺不会公开或透露您的个人资料,尊重您的隐私。</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="renren">人人网</string>
+    <string name="select_one_plat_at_least">请选择一个目标平台</string>
+    <string name="shake2share">摇晃手机！</string>
+    <string name="share">分享</string>
+    <string name="share_canceled">分享已取消</string>
+    <string name="share_completed">分享成功</string>
+    <string name="share_content">ShareSDK for Android不仅集成简单、支持如QQ好友、微信、新浪微博、腾讯微博等所有社交平台，而且还有强大的统计分析管理后台，实时了解用户、信息流、回流率、传播效应等数据，详情见官网http://mob.com @Mob移动开发者服务平台</string>
+    <string name="share_content_short">ShareSDK不仅集成简单、支持如微信、新浪微博、腾讯微博等平台，还有强大的统计分析管理后台，实时了解用户、信息流、回流率、传播效应等数据，详情见官网http://mob.com @Mob移动开发者服务平台</string>
+    <string name="share_dialog_title">分享到</string>
+    <string name="share_failed">分享失败</string>
+    <string name="share_to">分享到</string>
+    <string name="share_to_favorite">微信收藏</string>
+    <string name="share_to_format">分享到%s</string>
+    <string name="share_to_mingdao">分享到明道</string>
+    <string name="share_to_moment">微信朋友圈</string>
+    <string name="share_to_qq">分享到QQ</string>
+    <string name="share_to_qzone">分享到QQ空间</string>
+    <string name="share_to_qzone_default">来自%s的分享</string>
+    <string name="share_to_wechat">微信好友</string>
+    <string name="share_to_yixin">易信好友</string>
+    <string name="share_to_yixin_favorite">易信收藏</string>
+    <string name="share_to_yixin_moment">易信朋友圈</string>
+    <string name="sharing">分享操作正在后台进行…</string>
+    <string name="shortmessage">信息</string>
+    <string name="sinaweibo">新浪微博</string>
+    <string name="sm_item_about">Demo版本 Ver. %s</string>
+    <string name="sm_item_auth">授权</string>
+    <string name="sm_item_customer">自定义接口</string>
+    <string name="sm_item_demo">接口</string>
+    <string name="sm_item_fl_tc">关注腾讯微博</string>
+    <string name="sm_item_fl_weibo">关注新浪微博</string>
+    <string name="sm_item_share_view">摇一摇截屏分享</string>
+    <string name="sm_item_visit_website">关注官方网站</string>
+    <string name="sm_item_wechat">微信</string>
+    <string name="sm_item_yixin">易信</string>
+    <string name="sohumicroblog">搜狐微博</string>
+    <string name="sohusuishenkan">搜狐随身看</string>
+    <string name="sys_course">系统课程</string>
+    <string name="tencentweibo">腾讯微博</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_booking">预约听课</string>
+    <string name="title_activity_huodong_detail">HuodongDetailActivity</string>
+    <string name="title_activity_jing_xuan_details">JingXuanDetailsActivity</string>
+    <string name="title_activity_share">ShareActivity</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_zhuanti_detail">ZhuantiDetailActivity</string>
+    <string name="title_activity_zhuanti_detail_image">ZhuantiDetailImageActivity</string>
+    <string name="tumblr">Tumblr</string>
+    <string name="twitter">Twitter</string>
+    <string name="tx_3">账户设置</string>
+    <string name="tx_3_introduce">欢 迎 来 到 普 拉 星 球</string>
+    <string name="tx_3_title">你好，你已登录</string>
+    <string name="tx_balance">余额</string>
+    <string name="tx_introduce">介绍</string>
+    <string name="tx_name">用户名</string>
+    <string name="update">文字分享</string>
+    <string name="updating">更新于：</string>
+    <string name="use_login_button">请改用“登录”按钮</string>
+    <string name="user_address">家庭地址</string>
+    <string name="user_card_no">学员卡号</string>
+    <string name="user_gender">性别</string>
+    <string name="user_info">我的个人信息</string>
+    <string name="user_mobile">联系电话</string>
+    <string name="user_name">姓名</string>
+    <string name="user_no">编号</string>
+    <string name="user_parnet_name">家长姓名</string>
+    <string name="video_upload">视频分享</string>
+    <string name="vkontakte">VK</string>
+    <string name="webpage_upload">网页分享（本地图片）</string>
+    <string name="webpage_upload_bitmap">网页分享（Bitmap对象）</string>
+    <string name="webpage_upload_url">网页分享（网络图片）</string>
+    <string name="website">http://www.shareSDK.cn</string>
+    <string name="wechat">微信好友</string>
+    <string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="wechat_client_is_not_installed_correctly">微信客户端未安装或版本太旧</string>
+    <string name="wechat_client_not_support_following_operation">微信客户端不支持第三方应用执行关注功能</string>
+    <string name="wechat_demo_title">微信分享Demo标题</string>
+    <string name="wechatfavorite">微信收藏</string>
+    <string name="wechatmoments">微信朋友圈</string>
+    <string name="weibo_oauth_regiseter">应用授权</string>
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="weixin_gongzhong">微信公众号</string>
+    <string name="weixingzh">PulaStar</string>
+    <string name="yixin">易信</string>
+    <string name="yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="yixin_demo_title">易信分享Demo标题</string>
+    <string name="yixinmoments">易信朋友圈</string>
+    <string name="youdao">有道云笔记</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyWebDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="NavPage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+        <!-- <item name="android:background">@drawable/nav_page</item> -->
+        <item name="android:background">@color/navpage</item>
+    </style>
+    <style name="StyleProgressBarMini" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">50dip</item>
+        <item name="android:minHeight">10dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/shape_progressbar_mini</item>
+    </style>
+    <style name="Stylewidthhight_mm">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="Stylewidthhight_mw">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Stylewidthhight_wm">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="Stylewidthhight_ww">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="btn_right">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/res_cor1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_nav_selector</item>
+    </style>
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="main_tab_item">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">top</item>
+        <item name="android:textColor">@color/main_tab_item_text_color</item>
+    </style>
+    <style name="mytab">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="roomRatingBar" parent="@android:style/Widget.RatingBar">
+    <item name="android:progressDrawable">@drawable/room_rating_bar</item>
+    <item name="android:minHeight">10dip</item>
+    <item name="android:maxHeight">10dip</item>
+    </style>
+    <style name="share_btn_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@color/share_bg_color</item>
+    </style>
+    <style name="tallerBarStyle" parent="@android:style/Widget.SeekBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@android:drawable/progress_horizontal</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_horizontal</item>
+        <item name="android:minHeight">8dip</item>
+        <item name="android:maxHeight">20dip</item>
+    </style>
+</resources>

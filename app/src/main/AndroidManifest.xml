@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pula.star"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.pula.star.activity.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.pula.star.activity.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="com.pula.star.activity.buy.BuyCourseActivity"
+            android:label="@string/app_name"
+            android:exported="true"
+            android:launchMode="singleTop">
+          
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="wx90816ac92bb628a7"/>
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.pula.star.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+        
+
+        <receiver
+            android:name="com.pula.star.pay.wechat.AppRegister">
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+            </intent-filter>
+        </receiver>
+
+
+        <activity
+            android:name="cn.sharesdk.framework.ShareSDKUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+        </activity>
+        
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        
+        <activity android:name="com.freedoman.fingerlife.activities.UserCenterActivity" >
+        </activity>
+        <activity
+            android:name="com.pula.star.activity.AddActivity"
+            android:label="@string/title_activity_add"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.pula.star.activity.CourseDetailTourActivity"
+            android:label="@string/title_activity_zhuanti_detail" >
+        </activity>
+        <activity
+            android:name="com.pula.star.activity.CourseDetailH5Activity"
+            android:label="@string/title_activity_zhuanti_detail" >
+        </activity>
+        <activity
+            android:name="com.pula.star.activity.HuodongDetailActivity"
+            android:label="@string/title_activity_huodong_detail" >
+        </activity>
+        <activity
+            android:name="com.pula.star.activity.BookingActivity"
+            android:label="@string/title_activity_booking" >
+        </activity>
+        <activity android:name="com.pula.star.activity.LoginWelcomeActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.LoginActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.UserInfoActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyCourseActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyBookingActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyPointActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.CurriculumScheduleActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.BookingDialogActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.RegistedUserBookingDialogActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyNoticeActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyWorkH5Activity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyWorkActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.MyWorkDetailActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.AboutUsActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.changePasswordActivity" >
+        </activity>
+        <activity android:name="com.pula.star.activity.resetPasswordActivity" >
+        </activity>
+        
+        
+          <activity android:name="com.pula.star.activity.buy.BuyHuodongActivity" >
+        </activity>
+        <activity
+            android:name="com.iflytek.voiceads.request.IFLYBrowser"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="IFLYTEK_APPKEY_AD"
+            android:value="54fe544f" />
+    </application>
+
+</manifest>

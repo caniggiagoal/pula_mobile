@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\menu\\jing_xuan_details.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\menu\\jing_xuan_details.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\menu\\zhuanti_detail.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\menu\\zhuanti_detail.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\menu\\add.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\menu\\add.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\menu\\zhuanti_detail_image.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\menu\\zhuanti_detail_image.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\menu\\huodong_detail.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\menu\\huodong_detail.xml"
+    }
+]

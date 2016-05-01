@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\pay.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jing_xuan_details.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_jing_xuan_details.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_pwd.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\change_pwd.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jing_xuan_details_header.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\jing_xuan_details_header.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tonggao_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\tonggao_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_fragment.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\huodong_fragment.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_date_picker.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\wheel_date_picker.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okdialogview.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\r_okdialogview.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\mywork.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\booking_dialog.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\booking_dialog.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_my_point_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\list_my_point_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_fragment.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\course_fragment.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_my_info_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\list_my_info_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buycourse.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_buycourse.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_course_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\list_course_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_my_booking_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\list_my_booking_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wechatpay_result.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\wechatpay_result.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset_pwd.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\reset_pwd.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_share.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\layout_share.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\booking_fragment.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\booking_fragment.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\course_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buyhuodongsubmit.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_buyhuodongsubmit.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aboutus.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_aboutus.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_my_course_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\list_my_course_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_user_page.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\list_user_page.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\logo.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\logo.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_curriculum_schedule.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\frame_curriculum_schedule.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_detail.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\mywork_detail.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tonggao_fragment.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\tonggao_fragment.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jingxuan_fragment.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\jingxuan_fragment.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_huodong_detail.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_huodong_detail.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_waterfallitem.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\show_waterfallitem.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\huodong_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\huodong_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buyhuodong.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_buyhuodong.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\booking_day_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\booking_day_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_booking.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_course_header.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\my_course_header.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_detail_image_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\course_detail_image_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mynotice_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\mynotice_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhuanti_detail_image_activity.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_zhuanti_detail_image_activity.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\r_okcanceldialogview.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\r_okcanceldialogview.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_user_page.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\frame_user_page.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_my_booking.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\frame_my_booking.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jingxuan_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\jingxuan_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pulllist_head.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\pulllist_head.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buycoursesubmit.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_buycoursesubmit.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jingxuan_detail_item.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\jingxuan_detail_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_my_course.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\frame_my_course.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mynotice.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_mynotice.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhuanti_detail.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_zhuanti_detail.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mywork_h5.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\mywork_h5.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registed_user_booking_dialog.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\registed_user_booking_dialog.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\title.xml"
+    }
+]

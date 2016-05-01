@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="6904335144790" >
+
+    <task
+        name="javac"
+        duration="2688" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1148" />
+    <task
+        name="verifier"
+        duration="351" />
+
+    <artifact
+        location="D:\StudioProjects\pulastar\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6904335144790" >
+        <artifact
+            location="D:\StudioProjects\pulastar\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

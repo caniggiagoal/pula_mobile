@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#ffffff"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60dip"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/myself_data"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:background="#cc3366"
+                android:gravity="left"
+                android:orientation="horizontal" >
+
+
+                       
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal" >
+
+                    <RelativeLayout
+                        android:id="@+id/touxiang"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp" >
+
+                        <ImageView
+                            android:layout_width="82.0dip"
+                            android:layout_height="82.0dip"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/me_head_bg"
+                            android:contentDescription="@null" />
+
+                        <ImageView
+                            android:id="@+id/my_photo"
+                            android:layout_width="74.0dip"
+                            android:layout_height="74.0dip"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/touxiang" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:id="@+id/myself_info_xiugai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_toLeftOf="@+id/enter_next"
+                        android:layout_toRightOf="@+id/touxiang"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/user_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:layout_centerVertical="true"
+                                android:maxLength="11"
+                                android:text="未登录"
+                                android:textColor="#ffffff"
+                                android:textSize="17sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/enter_next"
+                        android:layout_width="26dp"
+                        android:layout_height="26dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerInParent="true"
+                        android:clickable="false"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="10dip"
+                        android:src="@drawable/aarrow" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:background="#ffffff" />
+
+            <LinearLayout
+                android:id="@+id/user_info"
+                android:layout_width="fill_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:visibility="visible" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/user_info_1_1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1" >
+
+                        <ImageView
+                            android:id="@+id/img_my_info"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:contentDescription="@string/nul"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/my_info" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/user_info_1_2"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1" >
+
+                        <ImageView
+                            android:id="@+id/img_my_course"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:contentDescription="@string/nul"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/my_course" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/user_info2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/user_info_2_1"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1" >
+
+                        <ImageView
+                            android:id="@+id/img_my_notice"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:contentDescription="@string/nul"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/my_notice" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/user_info_2_2"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1" >
+
+                        <ImageView
+                            android:id="@+id/img_my_work"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:contentDescription="@string/nul"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/my_work" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/booking"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:visibility="visible" >
+
+                <Button
+                    android:id="@+id/booking_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rounded_button"
+                    android:gravity="center"
+                    android:text="我  要  试  听"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" />
+
+            <RelativeLayout
+                android:id="@+id/aboutUs"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:visibility="visible" >
+
+                <Button
+                    android:id="@+id/aboutUs_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rounded_button"
+                    android:gravity="center"
+                    android:text="关  于  我  们"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
