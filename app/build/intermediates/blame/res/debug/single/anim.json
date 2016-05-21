@@ -32,11 +32,11 @@
         "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\btn_add.xml"
     },
     {
-        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
-        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_right_out.xml"
-    },
-    {
         "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
         "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\anim\\slide_right_out.xml"
     }
 ]

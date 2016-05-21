@@ -1,32 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="19"
+    api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="6904335144790" >
+    timestamp="4767632896961"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="2688" />
+        duration="1877" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1406" />
     <task
         name="instant-run-transform"
-        duration="1148" />
+        duration="38" />
     <task
         name="verifier"
-        duration="351" />
+        duration="4" />
 
     <artifact
-        location="D:\StudioProjects\pulastar\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\StudioProjects\pulastar\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="6904335144790" >
+    <build timestamp="743080538494" >
         <artifact
             location="D:\StudioProjects\pulastar\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="3403809476118" >
+        <artifact
+            location="D:\StudioProjects\pulastar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="4472522217950"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\StudioProjects\pulastar\app\build\intermediates\builds\debug\4472522217950\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4588053121580"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\StudioProjects\pulastar\app\build\intermediates\builds\debug\4588053121580\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4652575000416"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\StudioProjects\pulastar\app\build\intermediates\builds\debug\4652575000416\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4767632896961"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\StudioProjects\pulastar\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

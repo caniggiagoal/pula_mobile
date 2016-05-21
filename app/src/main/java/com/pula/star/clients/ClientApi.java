@@ -486,41 +486,79 @@ public class ClientApi {
 
 	
 	public static  MyCourseData getMyCourseData(String studentNo){
-		String getMyCourseDataUrl = "http://121.40.151.183:8080/pula-sys/app/timecourseorder/list?condition.studentNo=" + studentNo;
-		
+		String getMyCourseDataUrl = "http://121.40.151.183:8080/pula-sys/app/studentinterface/listTimeCourses?studentNo=" + studentNo;
+
 		MyCourseData courseData = new MyCourseData();
-		
+
 		JSONObject json =  ParseJson(getMyCourseDataUrl, "utf-8");
-		
+
 		if(json != null){
-		  try{
-			  Log.i("ClientAPI.getMyCourseData", ""+ json);
-			  JSONArray records = json.getJSONArray("records");
-			  if(records != null){
-				  if(records.length() >= 1)
-				  { 
-					 JSONObject data = records.getJSONObject(0);
-					 
-					 courseData.setCreateTime(data.getString("createTime"));
-					 courseData.setCourseTime(data.getString("courseTime"));
-					 courseData.setUpdateTime(data.getString("updateTime"));
-					 courseData.setLevel(data.getInt("level"));
-					 courseData.setPaidCount(data.getInt("paiedCount"));
-					 courseData.setUsedCount(data.getInt("usedCount"));
-					 courseData.setSpecialCourseCount(data.getInt("specialCourseCount"));
-					 courseData.setUsedSpecialCourseCount(data.getInt("usedSpecialCourseCount"));
-					 courseData.setHuodongCount(data.getInt("huodongCount"));
-					 courseData.setUsedHuodongCount(data.getInt("usedHuodongCount"));
-					 courseData.setGongfangCount(data.getInt("gongfangCount"));
-					 courseData.setUsedGongFangCount(data.getInt("usedGongFangCount"));				 				 
-				  }
-			  }
-			  
-		  }
-		  catch (Exception e) {
-              Log.e("ClientAPI.getMyCourseData", "Fail to get my course data !", e);
-          }
+
+			try {
+				Log.i("getMyCourseData", "" + json);
+
+				if( json.getBoolean("error") != false )
+				{
+					return null;
+				}
+
+				JSONArray data = json.getJSONArray("data");
+				if (data != null) {
+					if (data.length() >= 1) {
+						JSONObject courseAndRecordData = data.getJSONObject(0);
+
+						JSONArray orders = courseAndRecordData.getJSONArray("orders");
+						int i = 0;
+						int orderId = 0;
+						int paidCount = 0;
+						int usedCount = 0;
+						int specialCourseCount = 0;
+						int usedSpecialCourseCount = 0;
+						int huodongCount = 0;
+						int usedHuodongCount = 0;
+						int gongfangCount = 0;
+						int usedGongFangCount = 0;
+						JSONObject orderItem;
+						String updateTime = null;
+						int level = 0;
+						for (i = 0; i < orders.length(); i++) {
+							orderItem = orders.getJSONObject(i);
+							if ((orderId == 0) || (orderId > orderItem.getInt("id"))) {
+								orderId = orderItem.getInt("id");
+								updateTime = orderItem.getString("updateTime");
+								level = orderItem.getInt("level");
+							}
+							paidCount += orderItem.getInt("paiedCount");
+							usedCount += orderItem.getInt("usedCount");
+							specialCourseCount += orderItem.getInt("specialCourseCount");
+							usedSpecialCourseCount += orderItem.getInt("usedSpecialCourseCount");
+							huodongCount += orderItem.getInt("huodongCount");
+							usedHuodongCount += orderItem.getInt("usedHuodongCount");
+							gongfangCount += orderItem.getInt("gongfangCount");
+							usedGongFangCount += orderItem.getInt("usedGongFangCount");
+						}
+
+
+						//courseData.setCreateTime(data.getString("createTime"));
+						//courseData.setCourseTime(data.getString("courseTime"));
+						courseData.setUpdateTime(updateTime);
+						courseData.setLevel(level);
+						courseData.setPaidCount(paidCount);
+						courseData.setUsedCount(usedCount);
+						courseData.setSpecialCourseCount(specialCourseCount);
+						courseData.setUsedSpecialCourseCount(usedSpecialCourseCount);
+						courseData.setHuodongCount(huodongCount);
+						courseData.setUsedHuodongCount(usedHuodongCount);
+						courseData.setGongfangCount(gongfangCount);
+						courseData.setUsedGongFangCount(usedGongFangCount);
+					}
+				}
+
+			} catch (Exception e) {
+				Log.e("getMyCourseData", "Fail to get my course data !", e);
+			}
 		}
+
 		
 		return courseData;
 	}

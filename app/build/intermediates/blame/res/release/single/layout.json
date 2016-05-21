@@ -220,12 +220,12 @@
         "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\activity_booking.xml"
     },
     {
-        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\layout\\loading.xml",
-        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\loading.xml"
-    },
-    {
         "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\layout\\course_detail_image_item.xml",
         "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\course_detail_image_item.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\layout\\loading.xml",
+        "source": "D:\\StudioProjects\\pulastar\\app\\src\\main\\res\\layout\\loading.xml"
     },
     {
         "merged": "D:\\StudioProjects\\pulastar\\app\\build\\intermediates\\res\\merged\\release\\layout\\tonggao_fragment.xml",
